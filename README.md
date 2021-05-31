@@ -20,5 +20,4 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> 
 <a href="https://www.mongodb.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40">
-<a href="https://www.unrealengine.com/"> <img src="https://pbs.twimg.com/profile_images/879715096821460992/6DO-xqph_400x400.jpg" height="40" width="40">
 </p>
