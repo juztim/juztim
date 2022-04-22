@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juztim&label=Profile%20views&color=0e75b6&style=plastic" alt="juztim" /> </p>
 
-- 🔭 I’m currently working on:
+- I’m currently working on:
 - [alt:V C# Module](https://github.com/FabianTerhorst/coreclr-module)
 - [Metamotor Club](https://metamotor.club)
 
