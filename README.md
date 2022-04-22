@@ -19,5 +19,5 @@ I’m currently working on:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juztim&show_icons=true&theme=synthwave&locale=en" alt="juztim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juztim&theme=dark" alt="juztim" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JuzTim&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D" alt="juztim" /></p>
 
