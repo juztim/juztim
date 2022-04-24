@@ -17,9 +17,9 @@ I’m currently working on:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JuzTim&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D" alt="juztim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juztim&show_icons=true&theme=synthwave&locale=en" alt="juztim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juztim&show_icons=true&theme=synthwave&locale=en&count_private=true&include_all_commits" alt="juztim" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juztim&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="juztim" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juztim&show_icons=true&theme=synthwave&locale=en&layout=compact&count_private=true" alt="juztim" /></p>
 
 
 
