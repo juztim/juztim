@@ -6,7 +6,6 @@
 I’m currently working on:
 - [alt:V C# Module](https://github.com/FabianTerhorst/coreclr-module)
 - [Metamotor Club](https://metamotor.club)
-- [Evidelephant](https://github.com/imnotbrandon/evidelephant)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
