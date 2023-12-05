@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juztim&label=Profile%20views&color=0e75b6&style=flatsquare" alt="juztim" /> </p>
 
 I’m currently working on:
-- [Futuredesk](https://futuredesk.io)
-- [GPTeam](https://gpteam.io)
+- [Tingo](https://tingo.ai)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
