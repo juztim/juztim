@@ -18,8 +18,6 @@ I’m currently working on:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juztim&show_icons=true&theme=synthwave&locale=en&count_private=true&include_all_commits" alt="juztim" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juztim&show_icons=true&theme=synthwave&locale=en&layout=compact&count_private=true" alt="juztim" /></p>
-
 
 
 
