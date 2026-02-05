@@ -5,6 +5,7 @@
 
 I’m currently working on:
 - [Tingo](https://tingo.ai)
+- [RedReels](https://redreels.tv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
